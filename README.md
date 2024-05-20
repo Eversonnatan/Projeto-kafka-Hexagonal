@@ -1,4 +1,4 @@
-# Projeto Spring Boot com Arquitetura Hexagonal e Kafka
+# Projeto Spring Boot com Arquitetura Hexagonal com Kafka
 
  Este repositório contém uma aplicação desenvolvida com Spring Boot, utilizando a arquitetura hexagonal (Ports and Adapters) e integrando com Apache Kafka para envio de mensagens.
 

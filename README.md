@@ -27,6 +27,7 @@ A arquitetura hexagonal é um estilo arquitetural que enfatiza a separação de 
 - **Apache Kafka**
 - **Spring Kafka**
 - **Gradle**
+- **Docker**
 
 ## Estrutura do Projeto
 
